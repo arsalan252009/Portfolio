@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  body {
+    background: #f2f2f2;
+    color: #333;
+    line-height: 1.6;
+  }
+
+  header {
+    background-color: #144600;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+  }
+
+  nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
+  }
+
+  section {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  .section-title {
+    margin-bottom: 1rem;
+    color: #0b3802;
+    font-size: 24px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    padding-bottom: 5px;
+  }
+
+  .project {
+    background: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(221, 219, 219, 0.1);
+  }
+
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background: #222;
+    color: white;
+    margin-top: 2rem;
+  }
+
+  .button {
+    background: #144600;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .button2 {
+    background: #ff0040;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
